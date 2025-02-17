@@ -1,0 +1,23 @@
+{
+    "name": "ikramZAR2002/sprint3-day1",
+    "description": "This package should not be used; it is for testing purposes only.",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "TonNamespace\\": "src/"
+      }
+    },
+    "authors": [
+      {
+        "name": "Ikram Zaroual",
+        "email": "zaroual123ikram@gmail.com"
+      }
+    ],
+    "require-dev": {
+      "squizlabs/php_codesniffer": "^3.11",
+      "phpstan/phpstan": "^2.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
